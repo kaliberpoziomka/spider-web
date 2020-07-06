@@ -11,4 +11,4 @@ The big issue for me was to add disappearing lines effect, which is actually low
 when the particles are away from each other.
 
 The things I want to improve:
-- add the input fields which let the user to costumize the look of animation (line colors, bg color, size)
+- add the input fields which let the user to costumize the look of animation (line colors, background color, size)
